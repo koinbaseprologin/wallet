@@ -15,7 +15,7 @@
 <br>6. Click "Create profile" and double-check your email address and phone number.
 <br>7. Include even more personal information, as well as answers to a few questions.
 <br>8. Log in using your Còinbase credentials and complete the ID verification.
-<br>9. Finally, create a two-step authentication process to complete the Còinbase Pro Lògin UK process.
+<br>9. Finally, create a two-step authentication process to complete the <a href="https://koinbaseprologin.github.io/en-us/">Còinbase Pro Lògin</a> UK process.
 <br>How to complete the Còinbase Wallet Lògin procedure?
 <br>Make sure you use the right username and password when logging onto your Còinbase Pro account. Also, try to avoid spelling mistakes as much as possible. The instructions for logging into your Còinbase Pro Lògin account are listed below.
 <br>
